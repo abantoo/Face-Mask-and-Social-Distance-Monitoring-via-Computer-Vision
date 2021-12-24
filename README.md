@@ -1,3 +1,1 @@
-# 499AinitialBalsal
-balsal
-kisuina
+Part of out 499 Project
